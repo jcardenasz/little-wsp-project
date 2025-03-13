@@ -1,6 +1,7 @@
+This is a little python script to send a whatsapp message to a phone number at a time. Take into account that it might not work if you are not logged into whatsapp in your browser.
 To execute this project you have to:
 
-1. Have Python installed on your machine. You can download it [here](https://www.python.org/downloads/).
+1. Have Python installed on your machine. You can download it [here](https://www.python.org/downloads/). 
 2. Clone this repository to your machine.
 3. Install the required libraries by running the following command in the terminal:
 ```bash
